@@ -1,4 +1,4 @@
-## Hello, my name is afshin , I love GNU Linux and its command line .
+## Hello ,My name is afshin and I'm a programmer and I love GNU Linux and its command line.
 
 ![My status on github](https://github-readme-stats.vercel.app/api?username=iafshinafshin&show_icons=true&theme=tokyonight)<br>
 ##
